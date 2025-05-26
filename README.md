@@ -1,2 +1,1 @@
 # examen-git
-## Descripción
